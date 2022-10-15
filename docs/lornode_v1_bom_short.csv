@@ -1,0 +1,8 @@
+Comment,Designator,Footprint,LCSC,Qty
+SY7088DGC,U1,SamacSys_Parts:SON50P300X200X90-9N-D,,1
+MT3410L,U2,Package_TO_SOT_SMD:SOT-23-5,,1
+CH340C,U3,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,,1
+ESP-12E,U4,RF_Module:ESP-12E,,1
+Ai-Thinker-Ra-01,U5,RF_Module:Ai-Thinker-Ra-01-LoRa,,1
+TP4056,U6,SamacSys_Parts:SOIC127P600X175-9N,,1
+FS312F-G,U7,SamacSys_Parts:SOT95P280X145-6N,,1
